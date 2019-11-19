@@ -113,7 +113,7 @@
                     android:id="@+id/txt3"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Numero de hijos en edad escolar"
+                    android:text="Estado civil"
                     android:layout_margin="2dp"
                     />
 
@@ -168,7 +168,7 @@
                     android:id="@+id/totalHijos"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Total de hijos: 0"
+                    android:text="Monto por total de hijos: 0"
                     android:layout_margin="2dp"
                     />
 
@@ -176,7 +176,7 @@
                     android:id="@+id/hijosEscolares"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Hijos en edad escolar: 0"
+                    android:text="Monto por hijos en edad escolar: 0"
                     android:layout_margin="2dp"
                     android:layout_below="@id/totalHijos"
                     />
@@ -185,7 +185,7 @@
                     android:id="@+id/viudez"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Viudez: 0"
+                    android:text="Monto por viudez: 0"
                     android:layout_margin="2dp"
                     android:layout_below="@+id/hijosEscolares"
                     />
